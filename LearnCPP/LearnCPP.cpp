@@ -2,10 +2,6 @@
 
 #include "Shapes.h"
 
-
-int height;
-int width;
-
 int main()
 {
 	Square(4);
@@ -14,7 +10,6 @@ int main()
 	Triangle(4);
 	VerticallyTranslatedTriangle(4);
 	Romb(2);
-	Crosshair(7);
 }
 
 

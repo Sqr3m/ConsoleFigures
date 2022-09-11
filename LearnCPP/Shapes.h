@@ -15,13 +15,6 @@ void Square(int size)
 		
 		std::cout << std::endl;
 	}
-	
-	std::cout << std::endl;
-	std::cout << " SQUARE";
-	
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
 
 void Rect(int height, int width)
@@ -39,13 +32,6 @@ void Rect(int height, int width)
 
 		std::cout << std::endl;
 	}
-
-	std::cout << std::endl;
-	std::cout << " RECT";
-	
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
 
 void RightTriangle(int size)
@@ -59,13 +45,6 @@ void RightTriangle(int size)
 
 		std::cout << std::endl;
 	}
-	
-	std::cout << std::endl;
-	std::cout << " RIGHT TRIANGLE";
-	
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
 
 void Triangle(int size)
@@ -84,13 +63,6 @@ void Triangle(int size)
 				
 		std::cout << std::endl;
 	}
-
-	std::cout << std::endl;
-	std::cout << " TRIANGLE";
-
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
 
 void VerticallyTranslatedTriangle(int size)
@@ -109,12 +81,6 @@ void VerticallyTranslatedTriangle(int size)
 
 		std::cout << std::endl;
 	}
-
-	std::cout << " VERTICALLY TRANSLATED TRIANGLE";
-	
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
 
 void Romb(int size)
@@ -148,10 +114,4 @@ void Romb(int size)
 		
 		std::cout << std::endl;
 	}
-
-	std::cout << " ROMB";
-
-	std::cout << std::endl;
-	std::cout << std::endl;
-	std::cout << std::endl;
 }
